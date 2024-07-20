@@ -1,0 +1,45 @@
+@font-face
+{
+    font-family: title-fnt;
+    src: url('./Poppins-Light.ttf');
+}
+
+@font-face
+{
+    font-family: sub-fnt;
+    src: url('./Poppins-LightItalic.ttf');
+}
+
+#main
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 80vh;
+}
+
+.title
+{
+    font-family: title-fnt;
+    text-align: center;
+}
+
+.lead
+{
+    font-family: sub-fnt;
+}
+
+
+.lead a
+{
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover
+{
+    text-decoration: underline solid #b3cdb6 3px;
+}
+
+
+/* #b3cdb6; */
