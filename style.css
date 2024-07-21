@@ -1,3 +1,5 @@
+/* Main colour #b3cdb6 */
+
 @font-face
 {
     font-family: title-fnt;
@@ -30,17 +32,9 @@
     font-family: sub-fnt;
 }
 
-
 .lead a
 {
     color: inherit;
-    text-decoration: none;
+    text-decoration: underline solid #b3cdb6 0.1em;
+    text-underline-offset: 0.2em;
 }
-
-a:hover
-{
-    text-decoration: underline solid #b3cdb6 3px;
-}
-
-
-/* #b3cdb6; */
