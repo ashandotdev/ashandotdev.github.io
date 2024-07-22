@@ -36,7 +36,7 @@ body
     font-family: sub-fnt;
 }
 
-.lead a
+a.link
 {
     color: inherit;
     text-decoration: underline solid #b3cdb6 0.1em;
