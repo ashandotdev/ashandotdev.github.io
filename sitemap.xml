@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!-- See https://www.sitemaps.org/protocol.html for the sitemap format and definitions -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://ashan.dev</loc>
+        <lastmod>2024-07-22T17:00:00+02:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <!-- Default priority is 0.5 -->
+        <priority>0.5</priority>
+    </url>
+</urlset>
