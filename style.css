@@ -12,6 +12,11 @@
     src: url('./Poppins-LightItalic.ttf');
 }
 
+body
+{
+    font-family: primary-fnt;
+}
+
 #main
 {
     display: flex;
@@ -22,7 +27,6 @@
 
 .title
 {
-    font-family: primary-fnt;
     text-align: center;
     line-height: 0.92;
 }
