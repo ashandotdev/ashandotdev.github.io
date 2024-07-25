@@ -22,13 +22,14 @@ body
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
     min-height: 80vh;
 }
 
 .title
 {
-    text-align: center;
-    line-height: 0.92;
+    text-align: left;
+    line-height: 0.70;
 }
 
 .lead
