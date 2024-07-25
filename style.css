@@ -29,11 +29,12 @@ body
 .title
 {
     text-align: left;
-    line-height: 0.70;
+    line-height: 0.45em;
 }
 
 .lead
 {
+    line-height: 1em;
     font-family: sub-fnt;
 }
 
