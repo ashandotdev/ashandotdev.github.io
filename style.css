@@ -30,13 +30,13 @@ body
 {
     text-align: left;
     line-height: 0.45em;
-    font-variant: small-caps;
 }
 
 .lead
 {
     line-height: 1em;
     font-family: sub-fnt;
+    text-transform: lowercase;
 }
 
 a.link
