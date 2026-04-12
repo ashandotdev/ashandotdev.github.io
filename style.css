@@ -32,7 +32,7 @@ body
     line-height: 0.45em;
 }
 
-.lead
+.lead *:not(a)
 {
     line-height: 1em;
     font-family: sub-fnt;
