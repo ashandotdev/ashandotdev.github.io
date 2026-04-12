@@ -32,11 +32,10 @@ body
     line-height: 0.45em;
 }
 
-.lead *:not(a)
+.lead
 {
     line-height: 1em;
     font-family: sub-fnt;
-    text-transform: lowercase;
 }
 
 a.link
